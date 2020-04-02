@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.Bridgelabz.userRegistration.UserRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-02T17:54:32" hostname="rajchaudhari-HP-Notebook" time="0.004">
+<testsuite name="com.Bridgelabz.userRegistration.UserRegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-02T18:11:21" hostname="rajchaudhari-HP-Notebook" time="0.002">
   <properties/>
-  <testcase name="userFirstName_invalidThenFalse" classname="com.Bridgelabz.userRegistration.UserRegistrationTest" time="0.004"/>
+  <testcase name="userLastName_invalidThenFalse" classname="com.Bridgelabz.userRegistration.UserRegistrationTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

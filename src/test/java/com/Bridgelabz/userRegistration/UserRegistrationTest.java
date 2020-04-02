@@ -5,15 +5,15 @@ import org.junit.Test;
 
 public class UserRegistrationTest {
     @Test
-    public void userFirstName_validThenTrue() {
+    public void userLastName_validThenTrue() {
         UserRegistration User = new UserRegistration();
-        boolean firstName = User.checkName("Name");
-        Assert.assertTrue(firstName);
+        boolean lastName = User.checkName("Name");
+        Assert.assertTrue(lastName);
     }
    @Test
-    public void userFirstName_invalidThenFalse() {
+    public void userLastName_invalidThenFalse() {
         UserRegistration User = new UserRegistration();
-        boolean firstName = User.checkName("name");
-        Assert.assertFalse(firstName);
+        boolean lasttName = User.checkName("name");
+        Assert.assertFalse(lasttName);
     }
 }
