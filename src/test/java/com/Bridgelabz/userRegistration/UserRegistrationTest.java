@@ -22,4 +22,16 @@ public class UserRegistrationTest {
         boolean userEmail = User.checkEmail("rajchaudhari366@gmail.com");
         Assert.assertTrue(userEmail);
     }
+    @Test
+    public void userMobileNumber_validThenTrue() {
+        UserRegistration User = new UserRegistration();
+        boolean mobilenumber = User.checkMobileNumber("91 7016379039");
+        Assert.assertTrue(mobilenumber);
+    }
+    @Test
+    public void userMobileNumber_invalidThenFalse() {
+        UserRegistration User = new UserRegistration();
+        boolean mobileNumber = User.checkMobileNumber("1234567890");
+        Assert.assertFalse(mobileNumber);
+    }
 }

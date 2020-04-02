@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3893c92a-ffe9-46c2-9692-dc692f513671" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/Bridgelabz/userRegistration/UserRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/Bridgelabz/userRegistration/UserRegistration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/Bridgelabz/userRegistration/UserRegistrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/Bridgelabz/userRegistration/UserRegistrationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.Bridgelabz.userRegistration.UserRegistrationTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.Bridgelabz.userRegistration.UserRegistrationTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.Bridgelabz.userRegistration.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.Bridgelabz.userRegistration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.Bridgelabz.userRegistration.UserRegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.Bridgelabz.userRegistration.UserRegistrationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Bridgelabz/userRegistration/UserRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Bridgelabz/userRegistration/UserRegistration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/Bridgelabz/userRegistration/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bridgelabz/userRegistration/UserRegistrationTest.java" afterDir="false" />
     </list>
@@ -15,6 +32,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="com.Bridgelabz.userRegistration" />
@@ -74,26 +101,6 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UserRegistrationTest.userFirstName_invalidThenFalse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.Bridgelabz.userRegistration.UserRegistrationTest.userFirstName_invalidThenFalse&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="UserRegistrationTest.userLastName_invalidThenFalse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -114,12 +121,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UserRegistrationTest.userLastName_validThenTrue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="UserRegistrationTest.userMobileNumber_invalidThenFalse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.Bridgelabz.userRegistration.UserRegistrationTest.userLastName_validThenTrue&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.Bridgelabz.userRegistration.UserRegistrationTest.userMobileNumber_invalidThenFalse&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRegistrationTest.userMobileNumber_validThenTrue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.Bridgelabz.userRegistration.UserRegistrationTest.userMobileNumber_validThenTrue&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -136,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserRegistration" />
+        <item itemvalue="Gradle.UserRegistrationTest.userMobileNumber_invalidThenFalse" />
+        <item itemvalue="Gradle.UserRegistrationTest.userMobileNumber_validThenTrue" />
         <item itemvalue="Gradle.UserRegistrationTest.userEmail_validThenTrue" />
         <item itemvalue="Gradle.UserRegistrationTest.userLastName_invalidThenFalse" />
-        <item itemvalue="Gradle.UserRegistrationTest.userLastName_validThenTrue" />
-        <item itemvalue="Application.UserRegistration" />
-        <item itemvalue="Gradle.UserRegistrationTest.userFirstName_invalidThenFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -162,22 +189,22 @@
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="449" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.34.1850.1046@70.34.1850.1046" timestamp="1585847553703" />
-    <state width="1794" height="445" key="GridCell.Tab.0.bottom" timestamp="1585851883276">
+    <state width="1794" height="445" key="GridCell.Tab.0.bottom" timestamp="1585852807288">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1794" height="445" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1585851883276" />
-    <state width="1794" height="445" key="GridCell.Tab.0.center" timestamp="1585851883276">
+    <state width="1794" height="445" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1585852807288" />
+    <state width="1794" height="445" key="GridCell.Tab.0.center" timestamp="1585852807288">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1794" height="445" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1585851883276" />
-    <state width="1794" height="445" key="GridCell.Tab.0.left" timestamp="1585851883275">
+    <state width="1794" height="445" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1585852807288" />
+    <state width="1794" height="445" key="GridCell.Tab.0.left" timestamp="1585852807288">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1794" height="445" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1585851883275" />
-    <state width="1794" height="445" key="GridCell.Tab.0.right" timestamp="1585851883276">
+    <state width="1794" height="445" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1585852807288" />
+    <state width="1794" height="445" key="GridCell.Tab.0.right" timestamp="1585852807288">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1794" height="445" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1585851883276" />
+    <state width="1794" height="445" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1585852807288" />
     <state x="575" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1585848672052">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
@@ -186,5 +213,11 @@
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
     <state x="574" y="45" width="840" height="1034" key="search.everywhere.popup/70.34.1850.1046@70.34.1850.1046" timestamp="1585851277450" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_Bridgelabz_userRegistration$UserRegistration.ic" NAME="UserRegistration Coverage Results" MODIFIED="1585852807248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Bridgelabz.userRegistration.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/com_Bridgelabz_userRegistration$UserRegistrationTest_userMobileNumber_invalidThenFalse.ic" NAME="UserRegistrationTest.userMobileNumber_invalidThenFalse Coverage Results" MODIFIED="1585852776163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
