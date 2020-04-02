@@ -37,7 +37,7 @@ public class UserRegistrationTest {
     @Test
     public void userPassword_validThenTrue() {
         UserRegistration User = new UserRegistration();
-        boolean password = User.checkPassword("aebfv8547");
+        boolean password = User.checkPassword("a64Daffy8547");
         Assert.assertTrue(password);
     }
     @Test
