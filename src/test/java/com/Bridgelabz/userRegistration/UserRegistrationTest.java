@@ -16,4 +16,10 @@ public class UserRegistrationTest {
         boolean lasttName = User.checkName("name");
         Assert.assertFalse(lasttName);
     }
+    @Test
+    public void userEmail_validThenTrue(){
+        UserRegistration User = new UserRegistration();
+        boolean userEmail = User.checkEmail("rajchaudhari366@gmail.com");
+        Assert.assertTrue(userEmail);
+    }
 }
