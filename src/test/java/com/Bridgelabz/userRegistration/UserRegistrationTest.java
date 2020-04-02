@@ -25,8 +25,8 @@ public class UserRegistrationTest {
     @Test
     public void userMobileNumber_validThenTrue() {
         UserRegistration User = new UserRegistration();
-        boolean mobilenumber = User.checkMobileNumber("91 7016379039");
-        Assert.assertTrue(mobilenumber);
+        boolean mobileNumber = User.checkMobileNumber("91 7016379039");
+        Assert.assertTrue(mobileNumber);
     }
     @Test
     public void userMobileNumber_invalidThenFalse() {
@@ -37,13 +37,13 @@ public class UserRegistrationTest {
     @Test
     public void userPassword_validThenTrue() {
         UserRegistration User = new UserRegistration();
-        boolean password = User.checkPassword("acheKJG648547");
+        boolean password = User.checkPassword("acheKJG648547#");
         Assert.assertTrue(password);
     }
     @Test
     public void userPassword_invalidThenFalse() {
         UserRegistration User = new UserRegistration();
-        boolean password = User.checkPassword("dh67");
+        boolean password = User.checkPassword("dh4yy67");
         Assert.assertFalse(password);
     }
 }
